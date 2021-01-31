@@ -3,6 +3,7 @@ package main;
 import java.math.BigInteger;
 import java.util.function.IntBinaryOperator;
 
+// https://projecteuler.net/problem=8
 public class Main08 {
     public static void main(String[] args) {
         /**
